@@ -1,0 +1,27 @@
+<mat-card class="review-card-wrapper">
+  <mat-card-content>
+    <div class="user-information-wrapper">
+      <div class="user-information">
+        <p class="user-name">{{review.user}}</p>
+        <product-rating [value]="review.rating"></product-rating>
+      </div>
+    </div>
+    <mat-divider></mat-divider>
+    <div>
+      <ng-template [ngIf]="!showFullComment">
+        <p>{{ review.comment | truncate:300}}</p>
+      </ng-template>
+      <ng-template [ngIf]="showFullComment">
+        <p>{{ review.comment }}</p>
+      </ng-template>
+      <button
+             mat-raised-button
+             color="primary"
+             (click)="showFullComment = !showFullComment"
+              *ngIf="shouldDisplayButton()"
+        >
+        {{ showFullComment ? 'Read Less' : 'Read More' }}
+      </button>
+    </div>
+  </mat-card-content>
+</mat-card>

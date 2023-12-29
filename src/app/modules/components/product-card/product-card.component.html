@@ -1,0 +1,27 @@
+<mat-card (click)="openDialog()" class="card-item-wrapper">
+  <img
+    [src]="'../../../assets/images/' + product.image"
+    alt="Product image"
+    class="cart-item-image"
+    mat-card-image
+  >
+  <mat-card-content class="content-section">
+    <div class="info-section">
+      <mat-card-title class="product-name">{{product.name}}</mat-card-title>
+      <product-rating [value]="product.customerRating"></product-rating>
+    </div>
+    <mat-divider></mat-divider>
+    <div class="card-bottom-section">
+      <div class="price-section">
+        {{product.price | currency}}
+      </div>
+      <button
+        (click)="addToCart()"
+        mat-icon-button
+        color="primary"
+      >
+        <mat-icon>add_shopping_cart</mat-icon>
+      </button>
+    </div>
+  </mat-card-content>
+</mat-card>

@@ -1,0 +1,17 @@
+<mat-toolbar color="primary" class="navigation-bar-wrapper">
+  <span class="navbar-title">Electronic Store</span>
+  <div class="demo-section" *ngIf="(cartProducts$ | async) as cartProducts" >
+      <button
+           *ngIf="cartProducts.length > 0"
+           [matBadge]="cartProducts.length"
+           class="cart-redirect-btn"
+           mat-raised-button
+           matBadgeColor="accent"
+           matBadgePosition="after"
+           routerLink="/shopping-cart"
+    >
+       <mat-icon>shopping_basket</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>
+<router-outlet></router-outlet>

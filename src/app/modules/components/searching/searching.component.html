@@ -1,0 +1,9 @@
+<mat-form-field class="searching-bar-wrapper">
+  <mat-label>Search by name</mat-label>
+  <input
+    matInput
+    type="text"
+    [(ngModel)]="searchedName"
+    (input)="onFilterByName()"
+  />
+</mat-form-field>

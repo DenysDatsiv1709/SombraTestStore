@@ -1,0 +1,404 @@
+{
+  "electronic-products": [
+    {
+      "id": "1",
+      "name": "Blaupunkt 43WGC5000",
+      "price": 624,
+      "type": "TVs",
+      "customerRating": 2,
+      "image": "blaupunkt_tv.webp",
+      "description": "Immerse yourself in the next level of home entertainment with the QuantumVision 4K Smart TV. Boasting cutting-edge technology and stunning visuals, this television brings the cinematic experience right to your living room.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic blaupunkt TV,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 15 Pro ",
+      "price": 565.95,
+      "type": "Phones",
+      "customerRating": 3,
+      "image": "iphone_15.webp",
+      "description": "Experience lightning-fast performance with the TechMaster X10 Pro's octa-core processor and 6GB of RAM. Multitask effortlessly, launch apps in the blink of an eye, and enjoy smooth, lag-free operation",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic iphone,recommendation to everyone"
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "TCL 55C645",
+      "price": 530.53,
+      "type": "TVs",
+      "customerRating": 4,
+      "image": "TCL_tv.webp",
+      "description": "Immerse yourself in the next level of home entertainment with the QuantumVision 4K Smart TV. Boasting cutting-edge technology and stunning visuals, this television brings the cinematic experience right to your living room.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic TCL rv,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nokia Smart TV 3200A",
+      "price": 565.95,
+      "type": "TVs",
+      "customerRating": 5,
+      "image": "Nokia_tv.webp",
+      "description": "Immerse yourself in the next level of home entertainment with the QuantumVision 4K Smart TV. Boasting cutting-edge technology and stunning visuals, this television brings the cinematic experience right to your living room.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic smart tv,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Samsung QE65Q60CAUXUA",
+      "price": 299,
+      "type": "TVs",
+      "customerRating": 1,
+      "image": "samsung_tv.webp",
+      "description": "Immerse yourself in the next level of home entertainment with the QuantumVision 4K Smart TV. Boasting cutting-edge technology and stunning visuals, this television brings the cinematic experience right to your living room.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic tv,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Apple Iphone 13 264GB",
+      "price": 895.99,
+      "type": "Phones",
+      "customerRating": 2,
+      "image": "iphone_13.webp",
+      "description": "Experience lightning-fast performance with the TechMaster X10 Pro's octa-core processor and 6GB of RAM. Multitask effortlessly, launch apps in the blink of an eye, and enjoy smooth, lag-free operation",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic iphone,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Apple Iphone 14 64GB",
+      "price": 765.95,
+      "type": "Phones",
+      "customerRating": 3,
+      "image": "iphone_14.webp",
+      "description": "iPhones are renowned for their advanced camera technology, offering high-quality photos and videos. Recent models often include multiple lenses for various shooting capabilities",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic iphone,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "iPhone 14 Pro",
+      "price": 665.95,
+      "type": "Phones",
+      "customerRating": 4,
+      "image": "iphone_14_pro.webp",
+      "description": "iPhones are renowned for their advanced camera technology, offering high-quality photos and videos. Recent models often include multiple lenses for various shooting capabilities",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic iphone,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "iPhone 14 pro midnight",
+      "price": 465.95,
+      "type": "Phones",
+      "customerRating": 5,
+      "image": "iphone_14_pro_midnight.webp",
+      "description": "iPhones are renowned for their advanced camera technology, offering high-quality photos and videos. Recent models often include multiple lenses for various shooting capabilities",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic iphone,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Goranje GV620E10",
+      "price": 165.95,
+      "type": "Appliances",
+      "customerRating": 1,
+      "image": "goranje_wave.webp",
+      "description": "Introducing the QuickHeat Deluxe, your ultimate kitchen companion for fast and efficient meal preparation. This countertop microwave oven combines sleek design with powerful features to revolutionize the way you cook.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic microwave, recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Delonghi ECAM370.70",
+      "price": 295.95,
+      "type": "Appliances",
+      "customerRating": 2,
+      "image": "delonghi_grill.webp",
+      "description": "Elevate your outdoor culinary adventures with the FlameMaster Pro Series Gas Grill — the epitome of precision grilling and durable design. Unleash the flavors and master the art of outdoor cooking with this professional-grade stainless steel grill.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Awesome",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic grill, recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Philips EP2330",
+      "price": 575.95,
+      "type": "Appliances",
+      "customerRating": 3,
+      "image": "philips_coffee.webp",
+      "description": "Revitalize your mornings with the JavaJoy Deluxe Single Serve Coffee Maker, a sleek and efficient addition to your daily routine. This compact yet powerful coffee machine is designed to bring the joy of a freshly brewed cup right to your countertop.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Awesome",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic coffee machine,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "HotPoint LSC234DS",
+      "price": 515.15,
+      "type": "Appliances",
+      "customerRating": 4,
+      "image": "hotpoint-wash.webp",
+      "description": "SAMSUNG GALAXY S23 5G S911W 128GB (UNLOCKED) CANADIAN MODEL. SAMASUNG GALAXY S23 5G - SM-S911W (UNLOCKED) BLACK. Don't worry, we're here to help. FULL SAMSUNG WARRANTY INCLUDED. NOT INCLUDED. SIM CARD IS.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Awesome",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic washing machine,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Goranje refrigerator",
+      "price": 345,
+      "type": "Appliances",
+      "customerRating": 5,
+      "image": "Gorenje_ref.webp",
+      "description": "Upgrade your kitchen with our Premium Stainless Steel French Door Refrigerator, combining style and functionality to meet all your cooling needs. This refrigerator is designed with modern features to keep your food fresh, organized, and easily accessible.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "Awesome",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic refrigerator,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Hogwarts",
+      "price": 565.95,
+      "type": "Video Games",
+      "customerRating": 1,
+      "image": "hogwarts_game.webp",
+      "description": "Embark on an epic journey into the digital frontier with CyberRealm: Virtual Odyssey, an immersive computer game that pushes the boundaries of gaming technology. Dive into a breathtaking world where virtual reality meets cutting-edge graphics, delivering an unparalleled gaming experience for enthusiasts and casual players alike.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "It does not work game,need replacement",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic game,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Staert War",
+      "price": 565.95,
+      "type": "Video Games",
+      "customerRating": 2,
+      "image": "startWar.webp",
+      "description": "Embark on an epic journey into the digital frontier with CyberRealm: Virtual Odyssey, an immersive computer game that pushes the boundaries of gaming technology. Dive into a breathtaking world where virtual reality meets cutting-edge graphics, delivering an unparalleled gaming experience for enthusiasts and casual players alike.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "It does not work game,need replacement",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic game,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Call of Duty",
+      "price": 869.45,
+      "type": "Video Games",
+      "customerRating": 3,
+      "image": "call_game.webp",
+      "description": "Embark on an epic journey into the digital frontier with CyberRealm: Virtual Odyssey, an immersive computer game that pushes the boundaries of gaming technology. Dive into a breathtaking world where virtual reality meets cutting-edge graphics, delivering an unparalleled gaming experience for enthusiasts and casual players alike.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "It does not work game,need replacement",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic game,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Minecraft",
+      "price": 435.15,
+      "type": "Video Games",
+      "customerRating": 4,
+      "image": "minecraft.webp",
+      "description": "Embark on an epic journey into the digital frontier with CyberRealm: Virtual Odyssey, an immersive computer game that pushes the boundaries of gaming technology. Dive into a breathtaking world where virtual reality meets cutting-edge graphics, delivering an unparalleled gaming experience for enthusiasts and casual players alike.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "It does not work game,need replacement",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic game,recommendation to everyone"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Diablo",
+      "price": 565.95,
+      "type": "Video Games",
+      "customerRating": 5,
+      "image": "diablo.webp",
+      "description": "Embark on an epic journey into the digital frontier with CyberRealm: Virtual Odyssey, an immersive computer game that pushes the boundaries of gaming technology. Dive into a breathtaking world where virtual reality meets cutting-edge graphics, delivering an unparalleled gaming experience for enthusiasts and casual players alike.",
+      "reviews": [
+        {
+          "user": "Katherine Fitch",
+          "comment": "It does not work game,need replacement",
+          "rating": 2
+        },
+        {
+          "user": "Caroline Lewis",
+          "rating": 3,
+          "comment": "Fantastic game,recommendation to everyone"
+        }
+      ]
+    }
+  ]
+}
